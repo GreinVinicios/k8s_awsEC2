@@ -1,0 +1,2 @@
+.terraform*
+myvariables.auto.tfvars
